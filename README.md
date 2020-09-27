@@ -15,6 +15,7 @@ Next :
 ```
 - Complete Stripe payment method on checkout
 - Authentication (add a display name to user 'account')
+- Add animations
 - Make responsive for mobile
 ```
 
