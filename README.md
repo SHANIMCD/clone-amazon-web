@@ -1,20 +1,23 @@
 # Clone-amazon-web
 
-Done : 
+What can you do : 
 ```
-- Sign up / login component
-- Authentication set up with Firebase (login and register with email)
-- toggle log in / log out working - accessible by navbar
-- Home component containing some dummy product data (product data passed through as props from separate component)
+- Click on the amazon Logo to take you back to home
+- Create an account / login via the sign in button on the nav bar
+- When you're logged in, see your email address displayed in the nav bar to confirm that it's you logged in
+- Add products to the basket from the home page
+- Click on the basket logo in the corner of the page which will allow you to see your products listed as a subtotal
+- Remove items from the basket and see the subtotal reflect the new cost
 ```
 
 Next : 
 ```
 - Complete Stripe payment method on checkout
 - Authentication (add a display name to user 'account')
+- Make responsive for mobile
 ```
 
-current code deplyed via Firebase here --- > https://clone-web-1a73c.web.app/ - best viewed on desktop (Chrome)
+This project is currently deployed via Firebase here --- > https://clone-web-1a73c.web.app/ < --- best viewed on desktop (Chrome)
 
 ## Tools used:
 ```
