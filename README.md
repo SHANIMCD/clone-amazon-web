@@ -9,11 +9,12 @@ What can you do :
 - Add products to the basket from the home page
 - Click on the basket logo in the corner of the page which will allow you to see your products listed as a subtotal
 - Remove items from the basket and see the subtotal reflect the new cost
+- Click checkout and follow steps to complete payment using Stripe
+- Access orders made on that email address by clicking the orders link on the nav bar
 ```
 
 Next : 
 ```
-- Complete Stripe payment method on checkout
 - Authentication (add a display name to user 'account')
 - Add animations
 - Make responsive for mobile
@@ -23,6 +24,8 @@ This project is currently deployed via Firebase here --- > https://clone-web-1a7
 
 ## Tools used:
 ```
+- Node.js
+- Express
 - JavaScript (ES6)
 - React
 - React Context API
